@@ -1,0 +1,18 @@
+# paleta:
+    #14114d azul oscuro
+    #480d98 morado
+    #2e468c azul
+    #db99db rosa claro
+    #d578cd rosa
+
+#  imagen:
+    https://i.pinimg.com/564x/5e/fb/92/5efb92e0049a5cfa40a971ebcf10e4f2.jpg , tele
+    https://i.pinimg.com/564x/08/66/e9/0866e9ae4fc573228b9f35c076c5f4f3.jpg , tele aqua
+    https://i.pinimg.com/564x/fc/19/0d/fc190d1ee20f9b051e6b814db0779490.jpg , tren
+
+# auto descripcion:
+    amable
+    optimista
+    creativo
+
+
